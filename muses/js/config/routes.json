@@ -1,0 +1,10 @@
+{
+  "index": {
+    "path": "/",
+    "label": "Index"
+  },
+  "projectConfigurations": {
+    "path": "/projectConfigurations",
+    "label": "Project Configurations"
+  }
+}
